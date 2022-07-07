@@ -1,0 +1,14 @@
+.center, img{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+ol{
+}
+body{
+    background-color: #000103;
+    color: aliceblue;
+}
